@@ -60,8 +60,8 @@ def chk():
       time.sleep(1) 
       pass 
     else: 
-      print("\x1b[91mId Active nya Bo Active Krdn Nrxi Am Toola 15$ Nama Bnera la telegrm@kurdomafea\033[97m") 
-      os.system("xdg-open https://t.me/kurdomafea")
+      print("\x1b[91mId Active nya Bo Active Krdn nama bom bo bnera@shak4m\033[97m") 
+      os.system("xdg-open https://t.me/5h4ka")
       time.sleep(1) 
       sys.exit() 
   except: 
@@ -119,7 +119,7 @@ def menu():
     print("\033[32m.")
     os.system("clear")
     print("\033[90;1m------------------------------------------------------------------\033[0;1m")
-    print("   Auther: kurdo\n   Chenall telegram: @kurdomafea\n   Telegram Group: @kurdomafea\n  Youtube: NINJA HACKER KURD\n")
+    print("   Auther: shaka\n   Chenall telegram: @5h4ka\n   Telegram Group: @5h4ka\n  Youtube: Shakar Namo\n")
     print ("\033[1;97m=============================================================== ")
  
  
@@ -157,7 +157,7 @@ def action():
         except IOError:
             print 'Ended the free period Russell developer to activate'
             print 'Developers ID Telegram'
-            print '@kurdomafea @kurdomafea'
+            print '@5h4ka @5h4ka'
             raw_input('\n[ Back ]')
             menu()
 
